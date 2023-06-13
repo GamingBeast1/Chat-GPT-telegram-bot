@@ -12,7 +12,7 @@ If you would like to contribute to this project, feel free to submit a pull requ
 
 ## Developers
 
-- [𝑬𝒌𝒂𝒎𝒑𝒓𝒆𝒆𝒕✯𝑺𝒊𝒏𝒈𝒉](https://t.me/MoviesGalaxy120)
+- [𝑬𝒌𝒂𝒎𝒑𝒓𝒆𝒆𝒕✯𝑺𝒊𝒏𝒈𝒉](https://t.me/MoviesSoft)
 
 ## Support
 
