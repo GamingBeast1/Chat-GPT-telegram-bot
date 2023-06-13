@@ -10,6 +10,10 @@ To use the bot, simply send a message to the bot on Telegram. The bot will use t
 
 If you would like to contribute to this project, feel free to submit a pull request.
 
+## Developers
+
+This Telegram bot was created by [@Moviessoft](https://t.me/Moviessoft). We are a team of developers who specialize in creating bots and other software for Telegram.
+
 ## Support
 
 For support, please contact the developers of this bot.
@@ -20,4 +24,4 @@ Join our Telegram group @Moviesgalaxy120 to discuss movies, TV shows, and other 
 
 [![Join our Telegram group](https://img.shields.io/badge/Join-Telegram-blue)](https://t.me/Moviesgalaxy120)
 
-Hope you will enjoy it 😉
+We hope you enjoy it 😉
